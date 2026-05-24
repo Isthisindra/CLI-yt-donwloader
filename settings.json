@@ -1,0 +1,8 @@
+{
+    "language": "en",
+    "output_path": "D:\\01_KUMPLAGU",
+    "audio_quality": "0",
+    "naming_format": "%(autonumber)02d_%(title)s",
+    "autonumber_start": 1,
+    "version": "1.0.0"
+}

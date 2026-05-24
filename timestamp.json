@@ -1,0 +1,21 @@
+{
+    "input_file": "D:\\01_KUMPLAGU\\TRESNO TEKAN MATI  NGERTENONO ATI.mp3",
+    "output_folder": "D:\\01_KUMPLAGU\\split",
+    "start_number": 6,
+    "tracks": [
+        {"title": "Tresno tekane mati", "start": "00:00"},
+        {"title": "Ngertenono ati", "start": "04:30"},
+        {"title": "Nyekso batin", "start": "08:30"},
+        {"title": "Nemen", "start": "11:50"},
+        {"title": "Sudah cukup sudah", "start": "16:24"},
+        {"title": "Ditinggal rabi", "start": "20:46"},
+        {"title": "Kelingan mantan", "start": "25:20"},
+        {"title": "Talining asmoro", "start": "28:40"},
+        {"title": "Janji temani", "start": "33:20"},
+        {"title": "TTM", "start": "37:43"},
+        {"title": "Terminal giwangan", "start": "41:47"},
+        {"title": "Jaran goyang", "start": "45:11"},
+        {"title": "Cinta tak terbatas waktu", "start": "49:10"},
+        {"title": "Kimcil kepolen", "start": "52:50"}
+    ]
+}
