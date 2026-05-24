@@ -171,6 +171,7 @@ Pull request welcome! Beberapa ide pengembangan:
 - [ ] Batch processing dari file `.txt` berisi daftar URL
 - [ ] Progress bar download
 - [ ] GUI mode
+- [ ] Support install ffmpeg di Mac, Linux, Termux/Android
 
 ---
 
