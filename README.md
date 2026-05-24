@@ -37,7 +37,7 @@ Download MP3 dari YouTube, split kompilasi otomatis, auto numbering file — lan
 
 ```bash
 # Clone repo
-git clone git@github.com:Isthisindra/CLI-yt-donwloader.git
+git clone https://github.com/Isthisindra/CLI-yt-donwloader.git
 cd ytmp3
 
 # Jalanin langsung — dependensi akan dicek otomatis
