@@ -37,7 +37,7 @@ Download MP3 dari YouTube, split kompilasi otomatis, auto numbering file — lan
 
 ```bash
 # Clone repo
-git clone https://github.com/username/ytmp3.git
+git clone git@github.com:Isthisindra/CLI-yt-donwloader.git
 cd ytmp3
 
 # Jalanin langsung — dependensi akan dicek otomatis
@@ -94,20 +94,20 @@ Buat file `timestamp.json` di folder yang sama dengan script:
     "output_folder": "D:\\musik\\split",
     "start_number": 6,
     "tracks": [
-        {"title": "Tresno tekane mati", "start": "00:00"},
-        {"title": "Ngertenono ati",     "start": "04:30"},
-        {"title": "Nyekso batin",       "start": "08:30"},
-        {"title": "Nemen",              "start": "11:50"}
+        {"title": "Judul !", "start": "00:00"},
+        {"title": "Judul 2", "start": "04:30"},
+        {"title": "Judul 3", "start": "08:30"},
+        {"title": "Judul 4", "start": "11:50"}
     ]
 }
 ```
 
 Jalanin menu **Split MP3** → otomatis jadi:
 ```
-06_Tresno tekane mati.mp3
-07_Ngertenono ati.mp3
-08_Nyekso batin.mp3
-09_Nemen.mp3
+06_Judul 1.mp3
+07_Judul 2.mp3
+08_Judul 3.mp3
+09_Judul 4.mp3
 ```
 
 > 💡 Timestamp biasanya ada di deskripsi atau komentar video YouTube kompilasi.
